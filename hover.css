@@ -1,0 +1,139 @@
+/* home */
+.logo{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+.ui_text:hover{
+    text-shadow: 0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.designer_text:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+} 
+
+.ping:hover{
+    background-color: white;
+    color: black;
+    border-radius: 45px;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.My_image:hover{
+    background-color: white;
+    color: black;
+    border-radius: 45px;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.linkedin:hover{
+    fill: white;
+    color: black;
+    border-radius: 45px;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+
+.figma:hover:hover{
+    fill: white;
+    border-radius: 45px;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.github:hover{
+    fill: white;
+    border-radius: 45px;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.para_text:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+} 
+
+
+.contact_btn:hover{
+    background-color: white;
+    color: black;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+/* about */
+
+.about_text-1:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.about_text-2:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.para_about-1:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.para_about-2:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.card_1:hover{
+    box-shadow:  0 0 5px #b190b6,0 0 25px #b190b6, 0 0 50px #b190b6,0 0 100px #b190b6;
+}
+
+.card_2:hover{
+    box-shadow:  0 0 5px #cf422f,0 0 25px #cf422f, 0 0 50px #cf422f,0 0 100px #cf422f;
+}
+
+.card_3:hover{
+    box-shadow:  0 0 5px #dfa85c,0 0 25px #dfa85c, 0 0 50px #dfa85c,0 0 100px #dfa85c;
+}
+
+/* projects */
+
+.skill_text:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.Project_texts:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.Project_card_1 span:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px #FA7436, 0 0 50px #FA7436,0 0 100px #FA7436;
+}
+
+.Project_card_2 span:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px #F92A2A, 0 0 50px #F92A2A,0 0 100px #F92A2A;
+}
+
+.Project_card_3 span:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px #FA7436, 0 0 50px #FA7436,0 0 100px #FA7436;
+}
+
+/* contact section */
+.contact-text1:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.contact-text2:hover{
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.093),0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.contact_form_btn:hover{
+    background-color: white;
+    color: black;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+/* footer */
+
+.footer_image:hover{
+    background-color: white;
+    color: black;
+    border-radius: 45px;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
+.footer_btn:hover{
+    background-color: white;
+    color: black;
+    box-shadow:  0 0 5px white,0 0 25px white, 0 0 50px white,0 0 100px white;
+}
+
