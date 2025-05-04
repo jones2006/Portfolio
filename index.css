@@ -416,6 +416,7 @@ body {
     width: 100%;
     height: 780px;
     background-color: black;
+    padding-top: 35px;
   }
 
   .contact_text {
@@ -937,6 +938,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 35px;
     width: 100%;
     height: 780px;
     background-color: black;
@@ -1092,13 +1094,13 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: center; */
   }
 
   .logo {
@@ -1152,7 +1154,13 @@ body {
   }
 
   .showmenu {
-    display: none;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
   }
 
   /* hero section */
@@ -1487,6 +1495,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 50px;
     width: 100%;
     height: 780px;
     background-color: black;
@@ -1642,12 +1651,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -1701,7 +1710,12 @@ body {
   }
 
   .showmenu {
-    display: none;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   /* hero section */
@@ -2035,6 +2049,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 50px;
     width: 100%;
     height: 780px;
     background-color: black;
@@ -2205,12 +2220,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -2264,7 +2279,7 @@ body {
   }
 
   .showmenu {
-    display: none;
+    display: block;
   }
 
   /* hero section */
@@ -2399,7 +2414,7 @@ body {
   .card_1,
   .card_2,
   .card_3 {
-    width: 200px;
+    width: 180px;
     height: 250px;
     background-color: #212020;
     border-radius: 10px;
@@ -2451,7 +2466,7 @@ body {
     width: 70%;
     border: 1.5px solid white;
     opacity: 75%;
-    margin-top: 80px;
+    margin-top: 50px;
     margin-left: 120px;
   }
 
@@ -2598,6 +2613,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 50px;
     width: 100%;
     height: 780px;
     background-color: black;
@@ -2768,12 +2784,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -2827,7 +2843,12 @@ body {
   }
 
   .showmenu {
-    display: none;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   /* hero section */
@@ -2958,7 +2979,7 @@ body {
     margin-top: 60px;
     display: flex;
     flex-direction: row;
-    gap: 20px;
+    gap: 15px;
     justify-content: start;
     margin-left: 70px;
   }
@@ -2966,8 +2987,8 @@ body {
   .card_1,
   .card_2,
   .card_3 {
-    width: 200px;
-    height: 250px;
+    width: 180px;
+    height: 220px;
     background-color: #212020;
     border-radius: 10px;
   }
@@ -3006,12 +3027,12 @@ body {
   }
 
   .card_icon {
-    width: 50px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
   }
 
   .card_text {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .end_line {
@@ -3165,6 +3186,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 55px;
     width: 100%;
     height: 780px;
     background-color: black;
@@ -3237,7 +3259,7 @@ body {
   .contact-end_line {
     width: 90%;
     border: 1.5px solid white;
-    margin-top: 85px;
+    margin-top: 70px;
     margin-left: 40px;
   }
 
@@ -3335,12 +3357,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -3393,8 +3415,13 @@ body {
     margin-right: 40px;
   }
 
-  .showmenu{
-    display: none;
+  .showmenu {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   /* hero section */
@@ -3745,6 +3772,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 45px;
     width: 100%;
     height: 520px;
     background-color: black;
@@ -3817,8 +3845,8 @@ body {
   .contact-end_line {
     width: 70%;
     border: 1.5px solid white;
-    margin-top: 85px;
-    margin-left: 60px;
+    margin-top: 70px;
+    margin-left: 75px;
   }
 
   /* footer section */
@@ -3914,12 +3942,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -3972,8 +4000,13 @@ body {
     margin-right: 40px;
   }
 
-  .showmenu{
-    display: none;
+  .showmenu {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   /* hero section */
@@ -4324,6 +4357,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 30px;
     width: 100%;
     height: 520px;
     background-color: black;
@@ -4332,7 +4366,8 @@ body {
   .contact_text {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
+    justify-content: center;
     gap: 20px;
     padding-left: 30px;
   }
@@ -4396,8 +4431,8 @@ body {
   .contact-end_line {
     width: 70%;
     border: 1.5px solid white;
-    margin-top: 85px;
-    margin-left: 60px;
+    margin-top: 70px;
+    margin-left: 75px;
   }
 
   /* footer section */
@@ -4493,12 +4528,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -4551,9 +4586,14 @@ body {
     margin-right: 40px;
   }
 
-.showmenu{
-  display: none;
-}
+  .showmenu {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
   /* hero section */
 
@@ -4903,6 +4943,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 30px;
     width: 100%;
     height: 520px;
     background-color: black;
@@ -4911,9 +4952,8 @@ body {
   .contact_text {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
     gap: 20px;
-    padding-left: 30px;
   }
 
   .contact-text1 {
@@ -4975,8 +5015,8 @@ body {
   .contact-end_line {
     width: 70%;
     border: 1.5px solid white;
-    margin-top: 85px;
-    margin-left: 60px;
+    margin-top: 70px;
+    margin-left: 75px;
   }
 
   /* footer section */
@@ -5072,12 +5112,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
   .logo {
     align-self: flex-start;
@@ -5129,8 +5169,13 @@ body {
     margin-right: 40px;
   }
 
-  .showmenu{
-    display: none;
+  .showmenu {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   /* hero section */
@@ -5481,6 +5526,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 55px;
     width: 100%;
     height: 520px;
     background-color: black;
@@ -5489,9 +5535,8 @@ body {
   .contact_text {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
     gap: 20px;
-    padding-left: 30px;
   }
 
   .contact-text1 {
@@ -5553,8 +5598,8 @@ body {
   .contact-end_line {
     width: 70%;
     border: 1.5px solid white;
-    margin-top: 85px;
-    margin-left: 60px;
+    margin-top: 75px;
+    margin-left: 70px;
   }
 
   /* footer section */
@@ -5650,12 +5695,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -5708,9 +5753,14 @@ body {
     margin-right: 40px;
   }
 
-.showmenu{
-  display: none;
-}
+  .showmenu {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
   /* hero section */
 
@@ -6057,6 +6107,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 55px;
     width: 100%;
     height: 520px;
     background-color: black;
@@ -6065,9 +6116,8 @@ body {
   .contact_text {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
     gap: 20px;
-    padding-left: 30px;
   }
 
   .contact-text1 {
@@ -6129,8 +6179,8 @@ body {
   .contact-end_line {
     width: 70%;
     border: 1.5px solid white;
-    margin-top: 85px;
-    margin-left: 60px;
+    margin-top: 75px;
+    margin-left: 70px;
   }
 
   /* footer section */
@@ -6226,12 +6276,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -6284,9 +6334,14 @@ body {
     margin-right: 40px;
   }
 
-.showmenu{
-  display: none;
-}
+  .showmenu {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
   /* hero section */
 
@@ -6634,6 +6689,7 @@ body {
   /* contact form */
 
   .contact_section {
+    padding-top: 50px;
     width: 100%;
     height: 520px;
     background-color: black;
@@ -6642,17 +6698,16 @@ body {
   .contact_text {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
     gap: 20px;
-    padding-left: 30px;
   }
 
   .contact-text1 {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   .contact-text2 {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   .contact_textboxs {
@@ -6706,7 +6761,7 @@ body {
   .contact-end_line {
     width: 70%;
     border: 1.5px solid white;
-    margin-top: 85px;
+    margin-top: 75px;
     margin-left: 60px;
   }
 
@@ -6803,12 +6858,12 @@ body {
   }
 
   nav ul {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.468);
+    display: none;
+    /* background-color: rgba(0, 0, 0, 0.468);
     width: 100%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center; */
   }
 
   .logo {
@@ -6861,9 +6916,14 @@ body {
     margin-right: 40px;
   }
 
-.showmenu{
-  display: none;
-}
+  .showmenu {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.468);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
   /* hero section */
 
@@ -7215,14 +7275,14 @@ body {
     width: 100%;
     height: 520px;
     background-color: black;
+    padding-top: 50px;
   }
 
   .contact_text {
     display: flex;
     flex-direction: column;
-    align-items: start;
+    align-items: center;
     gap: 20px;
-    padding-left: 30px;
   }
 
   .contact-text1 {
@@ -7230,7 +7290,7 @@ body {
   }
 
   .contact-text2 {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   .contact_textboxs {
@@ -7284,7 +7344,7 @@ body {
   .contact-end_line {
     width: 70%;
     border: 1.5px solid white;
-    margin-top: 45px;
+    margin-top: 65px;
     margin-left: 45px;
   }
 
