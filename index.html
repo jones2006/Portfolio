@@ -11,6 +11,12 @@
     <link href="index.css" rel="stylesheet">
     <link href="hover.css" rel="stylesheet">
     <link rel="icon" href="assets/fav_icon.png">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"> </script>
+    <script type="text/javascript">
+        (function () {
+            emailjs.init("ZvuK6VuTiu0sz4x3N");
+        })(); 
+    </script>
 </head>
 
 <body>
@@ -175,17 +181,17 @@
     </section>
     <!-- contact section -->
     <section class="contact_section" id="contact_section">
-        <form class="contact_content">
+        <form class="contact_content" onsubmit="sendemail(event)">
             <div class="contact_text">
                 <h4 class="contact-text1">let's contact</h4>
                 <h5 class="contact-text2">"Let’s create something amazing together."
                 </h5>
             </div>
             <div class="contact_textboxs">
-                <input type="text" class="contact_textbox-1" placeholder="Name">
-                <input type="text" class="contact_textbox-1" placeholder="Email">
-                <input type="text" class="contact_textbox-2" placeholder="Message">
-                <button class="contact_form_btn">Submit</button>
+                <input type="text" class="contact_textbox-1" placeholder="Name" id="name" name="name">
+                <input type="text" class="contact_textbox-1" placeholder="Email" id="email" name="email">
+                <input type="text" class="contact_textbox-2" placeholder="Message" id="message" name="message">
+                <button class="contact_form_button">Submit</button>
             </div>
         </form>
         <div class="contact-end_line">
@@ -233,6 +239,32 @@
         menu.addEventListener('click', () => {
             menuList.classList.toggle('showmenu')
         })
+    </script>
+    <script>
+        function sendemail(event) {
+            event.preventDefault(); // First, stop default refresh
+
+            var from_name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
+            var message = document.getElementById("message").value;
+
+            var templateParams = {
+                from_name: from_name,
+                email: email,
+                message: message
+            };
+
+            emailjs.send("service_ulcypn8", "template_p1aui9y", templateParams)
+                .then(function (response) {
+                    alert("Message sent successfully!");
+                    // After alert, refresh the page
+                    location.reload();
+                }, function (error) {
+                    alert("Error sending message.");
+                });
+        }
+
+
     </script>
 </body>
 
