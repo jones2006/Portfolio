@@ -1,5 +1,6 @@
 # Project_1
-This is my first project (portfolio)
+This is my first project (portfolio)<br></br>
+visit my first portfolio: "https://jones2006.github.io/Portfolio/"
 
 <img width="1917" height="848" alt="Screenshot 2025-08-16 192318" src="https://github.com/user-attachments/assets/e418a60c-b614-48c6-a6f4-873425958651" />
 <img width="1918" height="945" alt="Screenshot 2025-08-16 192350" src="https://github.com/user-attachments/assets/eb8a588b-aabe-41ea-b459-b0b32b8bf16f" />
